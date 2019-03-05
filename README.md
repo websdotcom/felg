@@ -13,7 +13,7 @@
 `02/06/18` | Webpack | Eric Masiello | [`(slides)`](https://ericmasiello.github.io/front-end-learning-guild/04_webpack)
 `03/06/18` | React Component Testing with Jest and Enzyme | Gregory Douglas | [`(code)`](https://github.com/GWShark0/jest-react-walkthrough)
 `03/20/18` | Async Javascript | Joshua Poole | [`(slides)`](https://github.com/pooleparty/presentations/tree/master/async-javascript)
-`04/03/18` | Git Practices | Noah Chase | [`(slides)`]()
+`04/03/18` | Git Practices | Noah Chase | [`(slides)`](https://www.scribd.com/document/401153578/Git-Practices) / [`(video)`](https://drive.google.com/file/d/1dQURhc6WSqM-w_7CY4pzu_tuGP6G-Qo0/view)
 `04/17/18` | React Components Done Well (Dumb/Presentational Components) | Eric Masiello / Gregory Douglas | [`(slides)`](https://ericmasiello.github.io/front-end-learning-guild/react-components-done-well)
 `05/15/18` | Server Side Rendering with React | Joshua Poole | [`(code)`](https://github.com/pooleparty/presentations/tree/master/react-server-side-rendering)
 `05/29/18` | Video: CSS Grid Layout Crash Course | [@traversymedia](https://twitter.com/traversymedia) | [`(video)`](https://youtu.be/jV8B24rSN5o)
